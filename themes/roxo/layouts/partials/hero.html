@@ -1,0 +1,32 @@
+{{ with .Site.Params.banner }}
+  {{ if .enable }}
+  {{ "<!-- Site Hero Start -->" | safeHTML }}
+  <section class="site-hero" style="background-image: url('{{ .background_image }}');">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <div class="site-hero-content text-center">
+            <h6 style="color:black;">Développeur web/mobile sur Rouen</h6>
+            <h1 style="color:black;">
+             Charles SAUVAT
+            </h1>
+            <ul class="site-hero-content-buttons">
+              
+              <li>
+                <a href="portfolio" style="background-color: #171717;" class="btn btn-primary">
+                  <span class="btn-area">
+                    <span data-text="Découvrir mon portfolio">
+                      Découvrir mon portfolio
+                    </span>
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ "<!-- Site Hero End -->" | safeHTML }}
+  {{ end }}
+{{ end }}

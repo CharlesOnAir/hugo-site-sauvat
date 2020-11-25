@@ -1,0 +1,34 @@
+{{ with .Site.Params.call_to_action }}
+  {{ if .enable }}
+  <section class="site-cta" style='background-image: url("{{ .background_image | absURL }}");'>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="site-cta-title">TRAVAILLONS ENSEMBLES</h1>
+          <ul class="site-cta-buttons">
+            <li>
+              <a href="{{ .primary_button_url | absURL }}" style="background-color: black;" class="btn btn-secondary">
+                <span class="btn-area">
+                  <span data-text="M'envoyer un mail">
+                    M'envoyer un mail
+                  </span>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a href="tel: +33 0 00 00 00 00" style="background-color: grey;" class="btn btn-primary">
+                <span class="btn-area">
+                  <span data-text="Me contacter par téléphone">
+                    Me contacter par téléphone
+                  </span>
+                </span>
+              </a>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

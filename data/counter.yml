@@ -1,0 +1,13 @@
+enable : true
+counter_item: 
+  - title: "Clients satisfaits"
+    number: "250"
+
+  - title: "Projets terminés"
+    number: "100"
+
+  - title: "Nombres de cafés"
+    number: "350"
+
+  - title: "Diplomes obtenus"
+    number: "900"
