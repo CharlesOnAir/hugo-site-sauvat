@@ -2,11 +2,11 @@ enable  : true
 title   : "CE QU'ILS PENSENT DE MOI"
 subtitle: "Les avis de mes clients"
 testimonial_item :
-  - thumb : "https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FFAC.2Fvar.2Ffemmeactuelle.2Fstorage.2Fimages.2Famour.2Fcoaching-amoureux.2Ftrucs-a-savoir-psychologie-masculine-comprendre-les-mecs-36795.2F14450368-1-fre-FR.2F8-trucs-a-savoir-sur-la-psychologie-masculine-pour-comprendre-les-mecs.2Ejpg/1200x1200/quality/80/crop-from/center/8-trucs-a-savoir-sur-la-psychologie-masculine-pour-comprendre-les-hommes.jpeg"
-    name  : "Thomas Grange"
-    company_position: "CEO, Credito"
+  - thumb : "https://media-exp1.licdn.com/dms/image/C4D03AQEzf_H1-8dZdw/profile-displayphoto-shrink_400_400/0?e=1612396800&v=beta&t=X1Ljs_h1H7t1tjOfxdAuI_Di2_6LkPFDDszkKuynWfY"
+    name  : "Morgan Lavergne"
+    company_position: "Animateur national, FunRadio"
     quote : > 
-            "J'ai apprécié travailler avec Charles, il est d'une efficacité très impressionnante, je recommande pour toutes les personnes qui ont besoin de rapidité." 
+            "J’ai eu Charles en stage pendant 6 mois dans le groupe M6.  Charles reste aujourd’hui de loin mon meilleur stagiaire. Chaque mission donnée est comprise, réalisée parfaitement. Charles est aussi un passionné qui ne s’arrête pas uniquement à réaliser les tâches qui lui sont données. Il s’intéresse, s’implique et arrive à se rendre efficace sur des missions qui n’étaient pas les siennes au départ.  Charles est respectueux, ponctuel et il a également beaucoup d’humour. En soit, un très bon collègue de travail sur qui on peut compter.  Si j’avais eu la possibilité financière de le prendre en contrat, je l’aurai fait. Je recommande fortement." 
 
   - thumb : "https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FFAC.2Fvar.2Ffemmeactuelle.2Fstorage.2Fimages.2Famour.2Fcoaching-amoureux.2Ftrucs-a-savoir-psychologie-masculine-comprendre-les-mecs-36795.2F14450368-1-fre-FR.2F8-trucs-a-savoir-sur-la-psychologie-masculine-pour-comprendre-les-mecs.2Ejpg/1200x1200/quality/80/crop-from/center/8-trucs-a-savoir-sur-la-psychologie-masculine-pour-comprendre-les-hommes.jpeg"
     name  : "Leeroy Eli"
