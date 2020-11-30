@@ -2,13 +2,8 @@ enable  : true
 title   : "CE QU'ILS PENSENT DE MOI"
 subtitle: "Les avis de mes clients"
 testimonial_item :
-  - thumb : "https://media-exp1.licdn.com/dms/image/C4D03AQEzf_H1-8dZdw/profile-displayphoto-shrink_400_400/0?e=1612396800&v=beta&t=X1Ljs_h1H7t1tjOfxdAuI_Di2_6LkPFDDszkKuynWfY"
-    name  : "Morgan Lavergne"
-    company_position: "Animateur national, FunRadio"
-    quote : > 
-            "J’ai eu Charles en stage pendant 6 mois dans le groupe M6.  Charles reste aujourd’hui de loin mon meilleur stagiaire. Chaque mission donnée est comprise, réalisée parfaitement. Charles est aussi un passionné qui ne s’arrête pas uniquement à réaliser les tâches qui lui sont données. Il s’intéresse, s’implique et arrive à se rendre efficace sur des missions qui n’étaient pas les siennes au départ.  Charles est respectueux, ponctuel et il a également beaucoup d’humour. En soit, un très bon collègue de travail sur qui on peut compter.  Si j’avais eu la possibilité financière de le prendre en contrat, je l’aurai fait. Je recommande fortement." 
 
-  - thumb : "https://cdn.discordapp.com/attachments/776071667154944011/782951659798134824/pp.jpg"
+ - thumb : "https://cdn.discordapp.com/attachments/776071667154944011/782951659798134824/pp.jpg"
     name  : "Laurine d'Olivera"
     company_position: "Étudiante, NWS"
     quote : > 
@@ -19,3 +14,10 @@ testimonial_item :
     company_position: "Étudiant, NWS"
     quote : > 
             "Ce premier projet de groupe a été très enrichissant. J'ai rencontré des personnes avec des valeurs et des capacités différentes. Grâce à cela nous avons pu avancer rapidement en nous répartissant les tâches mais toujours en cohésion avec le groupe." 
+            
+             - thumb : "https://media-exp1.licdn.com/dms/image/C4D03AQEzf_H1-8dZdw/profile-displayphoto-shrink_400_400/0?e=1612396800&v=beta&t=X1Ljs_h1H7t1tjOfxdAuI_Di2_6LkPFDDszkKuynWfY"
+    name  : "Morgan Lavergne"
+    company_position: "Animateur national, FunRadio"
+    quote : > 
+            "J’ai eu Charles en stage pendant 6 mois dans le groupe M6.  Charles reste aujourd’hui de loin mon meilleur stagiaire. Chaque mission donnée est comprise, réalisée parfaitement. Charles est aussi un passionné qui ne s’arrête pas uniquement à réaliser les tâches qui lui sont données. Il s’intéresse, s’implique et arrive à se rendre efficace sur des missions qui n’étaient pas les siennes au départ.  Charles est respectueux, ponctuel et il a également beaucoup d’humour. En soit, un très bon collègue de travail sur qui on peut compter.  Si j’avais eu la possibilité financière de le prendre en contrat, je l’aurai fait. Je recommande fortement." 
+
